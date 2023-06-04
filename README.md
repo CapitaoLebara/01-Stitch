@@ -7,8 +7,29 @@
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 # Sobre o projeto
+A aplicação consiste em um layout simples, focado em exercita os conceitos basicos de Front-end
+
+## Layout 
+<img src="./image/img1.png" alt="@Hawk_web" height="200"><img src="./image/img2.png" alt="@Hawk_web" height="200"><img src="./image/img3.png" alt="@Hawk_web" height="200">
+
+# Tecnologias utilizadas
+- Html
+- Css
+- JavaScript
+
+# Autor
+
+## @Hawk_web
+
+<!-- linkedin -->
+<p align="esquerda">
+<a href="https://br.linkedin.com/in/ikaro-de-assis-sousa-909406196?trk=public_profile_browsemap&original_referer=https%3A%2F%2Fwww.google.com%2F" target="blank">
+<img align="center " src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+  width="120" height="30" />
+</a>
+
+<a href="https://instagram.com/https:/ /www.instagram.com/hawk_web/?theme=dark" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" width="120"/></a>
+</p>
 
 
 
-
-<img src="./image/img1.png" alt="@Hawk_web" height="200">
